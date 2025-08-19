@@ -13,7 +13,7 @@
 ## 🌟 Featured Projects
 - [🗣️ SpeakBoard](https://github.com/Bhartikush/SpeakBoard) – AI-powered hands-free typing app using Whisper AI.  
 - [⚡ WinBoost](https://github.com/Bhartikush/WinBoost) – Windows Debloater & Optimization tool.  
-- [📊 GrievanceAI](https://github.com/Bhartikush/GrievanceAI) – NLP-based complaint classifier for public service.  
+- [📊 GrievanceAI](https://github.com/Bhartikush/GrievanceAI) – NLP-based complaint classifier for public service.(ONGOING)  
 - [💰 Price Tracker](https://github.com/Bhartikush/product-price-tracker) – Web scraper with email alerts for product prices.  
 
 ---
