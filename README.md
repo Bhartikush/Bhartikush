@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co/qJ3wY4V/github-banner-sample.png" alt="Bharti Kushwaha Banner" width="100%" />
+  <img src="banner.png/banner.png" alt="Bharti Kushwaha Banner" width="100%" />
 </p>
+
 
 
 # Hi, I’m Bharti Kushwaha 👩‍💻  
