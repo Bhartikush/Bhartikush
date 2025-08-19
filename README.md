@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="banner.png" alt="Bharti Kushwaha Banner" width="100%" />
+  <img src="banner.png" alt="Bharti Kushwaha Banner" width="100%" height="250px" />
 </p>
-
-
-
 
 # Hi, I’m Bharti Kushwaha 👩‍💻  
 🚀 Data Analytics & Backend Developer | AI & Big Data Enthusiast  
