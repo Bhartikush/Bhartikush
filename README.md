@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.png/banner.png" alt="Bharti Kushwaha Banner" width="100%" />
+  <img src="banner.png" alt="Bharti Kushwaha Banner" width="100%" />
 </p>
+
 
 
 
