@@ -29,7 +29,7 @@
 ---
 
 ## 📄 Resume & Certifications
-📌 [View My Resume](https://github.com/Bhartikush/Bhartikush/blob/main/Bharti_Data_Analyst.pdf)  
+📌 [View My Resume](https://drive.google.com/file/d/1dSmGwA2wMyqN9LfecVm5t7C69uYID0PT/view?usp=sharing)  
 
 🎓 Certifications:  
 - [Deloitte Data Analytics Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_GYRN8yqYAfrgMenSM_1749493349739_completion_certificate.pdf)  
